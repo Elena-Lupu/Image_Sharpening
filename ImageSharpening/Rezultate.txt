@@ -1,0 +1,4 @@
+Detalii despre imagine:
+Latime:  700 px
+Inaltime:  757px
+Procesul a durat in total: 39483 milisecunde
